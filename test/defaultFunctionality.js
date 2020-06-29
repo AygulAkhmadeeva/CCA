@@ -1,3 +1,4 @@
+// const expect = require ('chai');
 describe('Default counter functionality', function () {
 
     describe('Calculation works', function () {
